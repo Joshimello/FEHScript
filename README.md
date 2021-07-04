@@ -1,4 +1,4 @@
-# FEH-Storymode-grinder
+# FEH-Orb-Farmer
 Simple python bot for Fire Emblem Heroes that helps grind for orbs via story mode, using the pyautogui library
 
 
