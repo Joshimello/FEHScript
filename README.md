@@ -25,3 +25,4 @@ Simple python bot for Fire Emblem Heroes that helps grind for orbs via story mod
  * Clean up code
 
 Help me clean up lol im tired
+Pull requests are always accepted - pls help
